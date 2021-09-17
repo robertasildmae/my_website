@@ -7,6 +7,6 @@ description: Hi! My name is Roberta Sildmäe, I am a Masters in Analytics and Ma
 draft: false
 image: photo2.jpg
 keywords: ""
-slug: roberta
+slug: post1
 title: About me
 ---
