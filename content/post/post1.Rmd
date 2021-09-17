@@ -1,0 +1,17 @@
+---
+title: "Roberta Sildmäe"
+date: '2020-09-14T22:42:51-05:00'
+description: Brief biography
+draft: no
+image: photo2.jpg
+keywords: ''
+slug: post1
+categories:
+- ''
+- ''
+---
+My name is Roberta Sildmäe, I am a Masters in Analytics and Management student at London Business School. I am passionate about the data driven approach to digital strategy and interested in pursuing management consulting. 
+I am 23 years old and I come from Estonia or Eesti, as it is called in my language that is spoken by only 1 million people in the world. Besides Tallinn, I have also lived in Leamington Spa (UK), Copenhagen and Montreal, Canada
+I completed my undergraduate studies at Warwick Business School where I studied BSc International Management. During my time at university, I also actively participated in the student life on campus, being the treasurer of Warwick Hip Hop Dance society and loyalty coordinator of the WBS Marketing Insight Series. 
+In terms of other hobbies, I am an avid memory sports/trivia enthusiast and have been the captain of my team for the past six years, winning the 2018 Estonian National Championships.
+I have also had four summer internships over the past few years and have worked in different sectors such as banking, law, hospitality and consulting. My internships have taught me about the practical applicability of analytical tools and optimising digital solutions, as I believe that data-driven business strategy allows for a holistic understanding of customer needs and behaviour. I am excited to learn more about this during my time at LBS and my future career in management consulting. 
