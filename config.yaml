@@ -80,7 +80,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: photo2.jpg
+      - image: photo1.jpg
         subtitle: Biography
         title: About me
         url: post/post1
