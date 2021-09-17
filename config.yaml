@@ -83,7 +83,7 @@ params:
       - image: photo1.jpg
         subtitle: Biography
         title: About me
-        url: post/post1
+        url: blogs/roberta
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Project 1
