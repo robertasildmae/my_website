@@ -8,9 +8,8 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      #AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Roberta! Welcome to my portfolio website!
+      On this page you can find out more about me and the projects I have done in R.
+    title: Welcome to Roberta's portfolio website!
   blog: {}
   contact:
     address:
@@ -81,8 +80,8 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: I love sunsets
+      - image: photo1.jpg
+        subtitle: Biography
         title: About me
         url: blogs/roberta
       - image: pic02.jpg
