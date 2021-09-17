@@ -1,6 +1,6 @@
 baseURL: https://robertasmywebsite.netlify.app/
 languageCode: en-us
-title: Forty
+title: Portfolio website for Roberta Sildmae
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,15 +8,15 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Roberta
+      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      #AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Roberta! Welcome to my portfolio website!
   blog: {}
   contact:
     address:
       - city: London, W1H 5HB
         country: UK
-        street: Landward court
+        street: Landward Court, Harrowby Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: +44(0)7857573382
         title: Phone
   custom_css: []
   custom_js: []
@@ -42,21 +42,21 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
+     # - icon: fa-twitter
+        #label: Twitter
+        #url: https://www.twitter.com
+     # - icon: fa-facebook
+        #label: Facebook
+        #url: https://www.facebook.com/roberta.triin
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/robertasildmae/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/robertasildmae
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/roberta-sildmäe/
   image: ''
   name: Roberta
   navigation:
@@ -71,10 +71,10 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+     # - name: Generic Blog
+      #  url: blogs/ipsum
+     # - name: Elements
+     #   url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
@@ -82,9 +82,9 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        subtitle: I love sunsets
+        title: About me
+        url: blogs/roberta
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
