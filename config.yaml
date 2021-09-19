@@ -84,6 +84,10 @@ params:
         subtitle: Biography
         title: About me
         url: blogs/roberta
+      - image: photo1.jpg
+        subtitle: Biography
+        title: IMDB me
+        url: blogs/project
       - image: photo3.jpg
         subtitle: Cleaning an plotting data
         title: Tracking German election polls in R
