@@ -1,0 +1,28 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T22:42:51-05:00"
+description: Cleaning and plotting real-time German election data from Wikipedia by using ggplot in R 
+draft: false
+image: photo3.jpg
+keywords: ""
+slug: tempus
+title: Tracking German election polls  
+---
+
+This graph provides an overview of opinion polls for the 2021 German elections, looking at the 14-day rolling average % of support for each political party from January 2021 until now.
+
+I will provide a short overview about how to clean, plot, analyse and infer results from the 2021 German elections dataframe.
+
+To begin with, we first download the real-time data  on German election opinion polls from the respective Wikipedia page into R. This data contains several tables in a HTML format that need to be parsed into a separate dataframe  and listed using purr:map(). 
+
+We specifically concentrate our analysis on one table that contains all opinion polls. In order to clean this data to a satisfactory format, we use the slice and mutate functions. This is done to eliminate unnecessary rows from the data and to convert dates into the right format for our analysis.
+
+Next, we take this data and use the group_by and summarise function to calculate the mean scores for all German parties, looking at the 14-day rolling average percentage of support.
+
+These results can be plotted using ggplot in R which allows us to create a scatterplot for each party, plotting the date on the x-axis and support percentage on the y-axis.
+
+It is important to note that each political party needs be assigned it's respective colour and the plot must have a theme and correct labels and title. 
+
+As a result of these steps, we are able to plot the 14-day rolling average % of support for each German political party from January 2021 until now, as R allows us to update our data in real-time. 

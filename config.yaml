@@ -84,9 +84,9 @@ params:
         subtitle: Biography
         title: About me
         url: blogs/roberta
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Project 1
+      - image: photo3.jpg
+        subtitle: Cleaning an plotting data
+        title: Tracking German election polls in R
         url: blogs/tempus
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
