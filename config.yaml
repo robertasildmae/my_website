@@ -104,7 +104,7 @@ params:
         subtitle: Managing Strategy in the Digital Era
         title: Strategic analysis of fitness app Strava
         url: blogs/ipsum
-        MSDE.pdf 
+        content: MSDE.pdf 
   two:
     buttonText: Explore
     enable: yes
