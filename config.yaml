@@ -88,10 +88,10 @@ params:
         subtitle: Cleaning an plotting data
         title: Tracking German election polls in R
         url: blogs/tempus
-      - image: pic03.jpg
+      - image: photo7.jpg
         subtitle: Lorem Etiam Nullam
         title: Project 2
-        url: blogs/magna
+        url: blogs/project2
       - image: photo4.jpg
         subtitle: Past academic, work and leadership experience
         title: CV
