@@ -84,10 +84,6 @@ params:
         subtitle: Biography
         title: About me
         url: blogs/roberta
-      - image: photo1.jpg
-        subtitle: Biography
-        title: IMDB me
-        url: blogs/project
       - image: photo3.jpg
         subtitle: Cleaning an plotting data
         title: Tracking German election polls in R
@@ -95,7 +91,7 @@ params:
       - image: photo7.jpg
         subtitle: Hypothesis testing and confidence intervals 
         title: Comparing IMDB rating data for Spielberg and Burton in R
-        url: blogs/project
+        url: blogs/projectNEW
       - image: photo4.jpg
         subtitle: Past academic, work and leadership experience
         title: CV
