@@ -91,7 +91,7 @@ params:
       - image: photo7.jpg
         subtitle: Lorem Etiam Nullam
         title: Project 2
-        url: blogs/project2
+        url: blogs/blog2
       - image: photo4.jpg
         subtitle: Past academic, work and leadership experience
         title: CV
