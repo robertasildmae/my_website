@@ -8,7 +8,7 @@ draft: false
 image: photo7.jpg
 keywords: ""
 slug: blog2
-title: Tracking German election polls  
+title: Project 2  
 ---
 
 This graph provides an overview of opinion
