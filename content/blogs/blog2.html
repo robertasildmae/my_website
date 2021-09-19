@@ -3,15 +3,24 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Cleaning and plotting real-time German election data from Wikipedia by using ggplot in R. 
+description: Hypothesis testing and confidence intervals for data comparison in R.
 draft: false
 image: photo7.jpg
 keywords: ""
-slug: aliquam
-title: Project 2  
+slug: project
+title: Comparing IMDB ratig data for Spielberg and Burton in R  
 ---
 
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
-<p>This graph provides an overview of opinion</p>
+<p>This graph illustrates the 95% confidence interval overlap for the mean IMDB ratings for two directors, Steven Spielberg and Tim Burton.</p>
+<p>To start our analysis, we conducted a hypothesis test, using the t.test command and infer package that allows us to simulate from anull distribution where one can assume zero difference between the mean rating of the two directors. Accordingly, we set our hypotheses:</p>
+<p>Null hypothesis: Spielberg and Burton have the same mean IMDB ratings.</p>
+<p>Alternative hypothesis: Spielberg and Burton do not have the same mean IMDB ratings.</p>
+<p>When it comes to our analysis we observe that the sample mean of Burton’s mean IMDB ratings is 6.93 and the confidence interval is from 6.53 to 7.33. For Spielberg the sample mean of IMDB ratings is 7.57 and the confidence interval is from 7.27 to 7.87.</p>
+<p>The t-stat for the hypothesis test is 0.01, which is smaller than 95% confidence interval p-value. The 95% confidence interval range is from 0.16 to 1.13, so 0 is not included in the confidence interval.</p>
+<p>Therefore, there’s enough evidence for us to conclude that Spielberg and Burton do not have have the same population mean IMDB ratings.</p>
+<p>In order to showcase these results and produce the graph above, we must create a new variable by filtering our dataframe in order to only get the results for Spielberg and Burton. Next, we group by these directors and summarise the mean, standard deviation, sample size, standard error, t-criticals in a cleaned table.</p>
+<p>Next, we produce a ggplot from this table, plotting the mean IMDB rating and 95% confidence interval for both directors. Furthermore, we plot the overlap of the two intervals in a grey colour and add our labels.</p>
+<p>Consequently, we run the code and can observe the 95% confidence interval overlap for the mean IMDB ratings for two directors, Steven Spielberg and Tim Burton.</p>
