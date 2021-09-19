@@ -92,10 +92,10 @@ params:
         subtitle: Lorem Etiam Nullam
         title: Project 2
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
+      - image: photo4.jpg
+        subtitle: Past academic, work and leadership experience
         title: CV
-        url: blogs/ipsum
+        url: blogs/magna
       - image: photo5.jpg
         subtitle: Artificial Intelligence for Business
         title: Predictive maintenance of wind turbines using ML algorithms
