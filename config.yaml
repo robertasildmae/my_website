@@ -90,7 +90,7 @@ params:
         url: blogs/tempus
       - image: photo7.jpg
         subtitle: Hypothesis testing and confidence intervals 
-        title: Comparing IMDB ratig data for Spielberg and Burton in R
+        title: Comparing IMDB rating data for Spielberg and Burton in R
         url: blogs/project
       - image: photo4.jpg
         subtitle: Past academic, work and leadership experience
@@ -104,6 +104,7 @@ params:
         subtitle: Managing Strategy in the Digital Era
         title: Strategic analysis of fitness app Strava
         url: blogs/ipsum
+        MSDE.pdf 
   two:
     buttonText: Explore
     enable: yes

@@ -8,7 +8,7 @@ draft: false
 image: photo7.jpg
 keywords: ""
 slug: project
-title: Comparing IMDB ratig data for Spielberg and Burton in R  
+title: Comparing IMDB rating data for Spielberg and Burton in R  
 ---
 
 This graph illustrates the 95% confidence interval overlap for the mean IMDB ratings for two directors, Steven Spielberg and Tim Burton. 
