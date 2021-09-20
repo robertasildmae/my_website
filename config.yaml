@@ -99,12 +99,11 @@ params:
       - image: photo5.jpg
         subtitle: Artificial Intelligence for Business
         title: Predictive maintenance of wind turbines using ML algorithms
-        url: blogs/ipsum
+        url: blogs/AI.pdf
       - image: photo6.jpg
         subtitle: Managing Strategy in the Digital Era
         title: Strategic analysis of fitness app Strava
-        url: blogs/ipsum
-        content: MSDE.pdf 
+        url: blogs/MSDE.pdf
   two:
     buttonText: Explore
     enable: yes
