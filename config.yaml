@@ -13,9 +13,9 @@ params:
   blog: {}
   contact:
     address:
-      - city: London, W1H 5HB
+      - city: London
         country: UK
-        street: Landward Court, Harrowby Street
+        street: 
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -24,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: +44(0)7857573382
+      - phone: 
         title: Phone
   custom_css: []
   custom_js: []
